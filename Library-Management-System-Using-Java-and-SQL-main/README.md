@@ -5,10 +5,6 @@ check out, return, and place holds on books. Librarians can view available books
 
 This project Done by:
 
-                    1.ABDI DEBELA
-                    2. DAGMAWI BELAYNEH
-                    3.ABAY TESFAYE
-                    4.ANAN SARBESA
-                    5.ASMARE ADMASU
-
+                     ABDI DEBELA
+                   
 (*Note:* The database has since been shut down, so the program will not populate with any data)
